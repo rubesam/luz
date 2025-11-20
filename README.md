@@ -1,2 +1,2 @@
-# Sitio web Funerales Caminos de Luz
-Versión corregida lista para Vercel.
+# Proyecto Funerales Caminos de Luz
+Proyecto base listo para Vercel.
